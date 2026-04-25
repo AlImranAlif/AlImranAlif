@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Al Imran Alif 👋
 
-<!--
-**AlImranAlif/AlImranAlif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student @ AIUB  
+🌱 Currently learning React & Next.js  
+🚀 Passionate about Web Development & AI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js, PHP
+- Tools: Git, GitHub, VS Code
+- Learning: React.js, Next.js
+
+---
+
+## 📌 Featured Projects
+
+### 🔧 OPTIFIX (Full Stack Web App)
+👉 https://github.com/AlImranAlif/OPTIFIX  
+- Built with HTML, CSS, JS, PHP  
+- Responsive UI + backend integration  
+
+### ⚙️ Node.js Backend Project
+👉 https://github.com/AlImranAlif/Advance_Programming_With_WebTechnology  
+- REST API basics  
+- Server & routing practice  
+
+---
+
+## 📫 Contact Me
+- Email: alimranalif19@gmail.com  
+- LinkedIn: your-link
