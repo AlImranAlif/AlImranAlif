@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Al Imran Alif</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Aspiring+Full+Stack+Developer;Building+Web+Applications;Learning+React+%26+Next.js;AI+%26+Computer+Vision+Enthusiast" />
+</p>
 # 💫 About Me:
 💻 Computer Science student at AIUB  <br>🌐 Aspiring Full Stack Developer  <br>🤖 AI & Computer Vision Enthusiast  <br><br>I enjoy building real-world web applications using HTML, CSS, JavaScript, PHP,Next.js, React.js  and Node.js, focusing on clean design and responsive user experience.  <br><br>I have worked on full-stack and backend projects, and Frontend projects to build modern, scalable web applications.  <br><br>Alongside web development, I have a background in AI and Computer Vision, where I’ve built deep learning models for image classification using PyTorch.  <br><br>🚀 I’m passionate about combining web technologies with intelligent systems and continuously improving through hands-on projects.
 
