@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Al Imran Alif</h1>
-<h3 align="center">💻 Aspiring Full Stack Developer | 🤖 AI & Computer Vision Enthusiast</h3>
+<h1 align="center"> I'm Al Imran Alif</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Aspiring+Full+Stack+Developer;Building+Web+Applications;Learning+React+%26+Next.js;AI+%26+Computer+Vision+Enthusiast" />
+</p>
 
 <p align="center">
   <a href="mailto:alimranalif19@gmail.com">Email</a> •
@@ -12,49 +15,59 @@
 ## 🚀 About Me
 
 💻 Computer Science student at AIUB  
-🌐 Building full-stack web applications  
+🌐 Focused on Full Stack Web Development  
 ⚛️ Currently learning **React & Next.js**  
 🤖 Background in **AI & Computer Vision**
 
-I enjoy developing responsive and user-friendly web applications using modern technologies.  
-I focus on writing clean code, building scalable systems, and continuously improving through real-world projects.
+I build responsive, user-friendly web applications and focus on writing clean, maintainable code.  
+I enjoy solving real-world problems through projects and continuously improving my development skills.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend**  
-HTML • CSS • JavaScript • React (Learning) • Next.js (Learning)
+<p align="center">
 
-**Backend**  
-Node.js • Express.js • PHP • REST APIs
+<strong>Frontend</strong><br/>
+HTML • CSS • JavaScript • React • Next.js  
 
-**Tools**  
-Git • GitHub • VS Code • Figma
+<br/>
 
-**AI / Data (Bonus)**  
-Python • PyTorch • Machine Learning
+<strong>Backend</strong><br/>
+Node.js • Express.js • PHP • REST APIs  
+
+<br/>
+
+<strong>Tools</strong><br/>
+Git • GitHub • VS Code • Figma  
+
+<br/>
+
+<strong>AI / Data</strong><br/>
+Python • PyTorch • Machine Learning  
+
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🔧 OPTIFIX – Full Stack Web Application
-- Built with HTML, CSS, JavaScript, PHP  
 - Responsive UI + backend integration  
+- Built with HTML, CSS, JavaScript, PHP  
 🔗 https://github.com/AlImranAlif/OPTIFIX  
 
 ---
 
 ### ⚙️ Node.js Backend Project
-- REST API, routing, server logic  
+- REST API, routing, backend logic  
 - Built using Node.js  
 🔗 https://github.com/AlImranAlif/Advance_Programming_With_WebTechnology  
 
 ---
 
 ### 🤖 CNN Image Classification
-- Built using PyTorch  
+- Built with PyTorch  
 - Trained on CIFAR-10  
 🔗 https://github.com/AlImranAlif/Computer-Vision-and-Pattern-Recognition  
 
@@ -87,4 +100,4 @@ Python • PyTorch • Machine Learning
 
 ---
 
-⭐️ *Focused on building, learning, and growing every day.*
+⭐️ <i>Focused on building, learning, and growing every day.</i>
