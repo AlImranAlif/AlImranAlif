@@ -17,7 +17,7 @@ I build responsive interfaces with **React, Next.js, and Vue.js** and develop RE
 - 💻 Solved **400+ algorithmic problems** across LeetCode, Codeforces, and HackerRank.
 - 🛠️ Applying **data structures, OOP, and software design patterns** in hands-on projects.
 - 🌱 Currently learning **Django** and strengthening my software engineering skills.
-- 🤝 Interested in collaborating on **web applications and AI research**.
+- 🤝 Interested in collaborating on **web applications and Bioinformatics,AI research**.
 
 ### 🔬 Research
 
