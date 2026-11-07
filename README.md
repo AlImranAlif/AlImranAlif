@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Computer+Science+Student+at+AIUB;Student+Researcher+at+ELITE+Research+Lab;Exploring+Medical+AI+%26+Bioinformatics"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Computer+Science+Student+at+AIUB;Student+Researcher+at+ELITE+Research+Lab;Exploring+Medical+AI+%26+Bioinformatics;Research+and+Development+Intern+At+Classtune"
     alt="Full Stack Developer, Computer Science Student, and Student Researcher"
   />
 </p>
@@ -10,6 +10,7 @@
 ## 👨‍💻 About Me
 
 I'm a **Computer Science and Engineering student at AIUB** and a **full-stack developer** who enjoys turning practical problems into working applications.
+Currently doing my Internship at Classtune as Research and Development team.
 
 I build responsive interfaces with **React, Next.js, and Vue.js** and develop REST APIs with **Node.js, Express, NestJS, and FastAPI**. My projects include scheduling tools, sales reconciliation, and marketplace applications, with a focus on modular code, database design, and usable interfaces.
 
@@ -17,7 +18,7 @@ I build responsive interfaces with **React, Next.js, and Vue.js** and develop RE
 - 💻 Solved **400+ algorithmic problems** across LeetCode, Codeforces, and HackerRank.
 - 🛠️ Applying **data structures, OOP, and software design patterns** in hands-on projects.
 - 🌱 Currently learning **Django** and strengthening my software engineering skills.
-- 🤝 Interested in collaborating on **web applications and Bioinformatics,AI research**.
+- 🤝 Interested in collaborating on **web applications and Bioinformatics,AI research,Medical-AI**.
 
 ### 🔬 Research
 
