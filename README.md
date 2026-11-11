@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science and Engineering student at AIUB** and a **full-stack developer** who enjoys turning practical problems into working applications.
+I'm a **Computer Science and Engineering student at AIUB currently on last semester** and a **full-stack developer** who enjoys turning practical problems into working applications.
 Currently doing my Internship at Classtune as Research and Development team.
 
 I build responsive interfaces with **React, Next.js, and Vue.js** and develop REST APIs with **Node.js, Express, NestJS, and FastAPI**. My projects include scheduling tools, sales reconciliation, and marketplace applications, with a focus on modular code, database design, and usable interfaces.
